@@ -2,6 +2,23 @@
 
 ## Prequisite:
 
+Linux
+-   apt-get 
+-   wkhtml2pdf
+        or
+Mac
+-   brew
+-   wkhtml2pdf
+
+Python 3
+-   Pip
+-   Virtual env
+
+Docker
+-   Selenium
+
+Git
+
 	- Follow all steps here  https://runnable.com/docker/install-docker-on-linux
 	- CLONE using this command: git clone https://github.com/kanzabatool/Grad_project
 	- While into a folder run commands:
