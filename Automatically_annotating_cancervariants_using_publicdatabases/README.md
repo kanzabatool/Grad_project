@@ -1,9 +1,9 @@
-# Master-Thesis
+# Automatically_annotating_cancervariants_using_publicdatabases
 
 ## Prequisite:
 
 	- Follow all steps here  https://runnable.com/docker/install-docker-on-linux
-	- CLONE using this comman: git clone https://NoorJafri@bitbucket.org/NoorJafri/kanzathesis.git
+	- CLONE using this command: git clone https://NoorJafri@bitbucket.org/NoorJafri/kanzathesis.git
 	- While into a folder run commands:
 	    - virtualenv venv
 		- source venv/bin/activate
