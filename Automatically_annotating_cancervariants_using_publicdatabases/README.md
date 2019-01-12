@@ -1,4 +1,4 @@
-# Automatically_annotating_cancervariants_using_publicdatabases
+# Automatically annotating cancer variants using publicdatabases
 
 ## Prequisite:
 
