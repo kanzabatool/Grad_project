@@ -3,7 +3,7 @@
 ## Prequisite:
 
 	- Follow all steps here  https://runnable.com/docker/install-docker-on-linux
-	- CLONE using this command: git clone https://NoorJafri@bitbucket.org/NoorJafri/kanzathesis.git
+	- CLONE using this command: git clone https://github.com/kanzabatool/Grad_project
 	- While into a folder run commands:
 	    - virtualenv venv
 		- source venv/bin/activate
